@@ -1,5 +1,5 @@
 # OneDaySite
-Static SPA Challenge I made for myself.
+Static site in one day challenge I made for myself.
 
 I was pretty rusty so I decided to give myself a site to clone and do what I could in a single day. This is from Frontendmentor's website and it was a good page to try to replicate. I did the hero image in photoshop with a stock image I found on unsplash. 
 
